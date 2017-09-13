@@ -7,14 +7,16 @@ Number of DOF / Gradi di libertà: 6
 
 ## Joints specifications / Specifiche giunti
 
-| Joint \# | motor model | motor voltage | has brake |
-|----------|-------------|---------------|-----------|
-| 1        |             |               |           |
-| 2        |             |               |           |
-| 3        |             |               |           |
-| 4        |             |               |           |
-| 5        |             |               |           |
-| 6        |             |               |           |
+All motors are from [GEC ALSTHOM][https://en.wikipedia.org/wiki/Alstom]; the company was acquired in 1998. No original datasheet and product data are available.
+
+| Joint \# | motor model         | motor voltage | has brake |
+|----------|-------------------- |---------------|-----------|
+| 1        | RS440G K1300        |               |           |
+| 2        | RS440G K1300        |               |           |
+| 3        | RS130G              |               |           |
+| 4        | RS130G              |               |           |
+| 5        | RS130G              |               |           |
+| 6        |                     |               |           |
 
 ## Comments / Commenti
 
