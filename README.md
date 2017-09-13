@@ -1,8 +1,10 @@
-# Robot ANSALDO
+# Robot arm project / Progetto braccio robotico
+
+![Robot arm](asset-bank/robot-photo.jpg)
 
 **[ITA]**
 
-Un po' di tempo fa abbiamo ereditato un braccio robotico dell'Ansaldo che risale agli anni '70 (grazie Bruno).
+Un po' di tempo fa abbiamo ereditato un braccio robotico dell'Ansaldo che risale ai tardi anni '80 (grazie Bruno).
 Abbiamo quindi deciso di rimetterlo in funzione.
 
 L'obiettivo di questo progetto è di riuscire a controllare il braccio "col pensiero" tramite un interfaccia neurale.
@@ -16,7 +18,7 @@ Per riuscirci occorre prima risolvere la serie di problemi intermedi elencati qu
 
 **[ENG]**
 
-A while ago we recovered a robot arm by Ansaldo that dates back to the 70ies (thank you Bruno).
+A while ago we recovered a robot arm by Ansaldo that dates back to the late 80ies (thank you Bruno).
 We decided it is now time to put it back to work.
 
 The aim of this project it to control the arm with a neural interface.
