@@ -5,7 +5,7 @@
 
 * [Arduino Playground - Reading Rotary Encoders](https://playground.arduino.cc/Main/RotaryEncoders)
 * [Arduino Playground - Interrupts](https://playground.arduino.cc/Code/Interrupts)
-* http://yameb.blogspot.it/2012/11/quadrature-encoders-in-arduino-done.html
+* [Quadrature Encoders in Arduino, done right. Done right.](http://yameb.blogspot.it/2012/11/quadrature-encoders-in-arduino-done.html)
 * http://tutorial.cytron.com.my/2016/04/04/arduino-2a-motor-shield-encoder-motor/
 * http://www.ebay.com.au/itm/LSI-7366R-LS7366R-LS7366-Quadrature-Encoder-Counter-DIP-IC-Arduino-Servo-Buffer-/292041288130
 * https://www.phidgets.com/docs/Encoder_Primer
