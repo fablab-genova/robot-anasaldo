@@ -23,7 +23,7 @@ We decided it is now time to put it back to work.
 
 The aim of this project it to control the arm with a neural interface.
 For doing this we must first accomplish the series of sub-tasks listed hereafter:
-1. identification and reconstruction of the robot's characteristics (motor models, encoders specs, brakes characteristics, etc.)
+1. [Joint control](docs/encoders.md): identification and reconstruction of the robot's characteristics (motor models, encoders specs, brakes characteristics, etc.)
 1. closed loop control of the joints
 1. connection of the single joints to the central computation unit in charge of the planning.
 1. connection of the neural interface and translation of the neural signals to control inputs for the robot.
